@@ -11,12 +11,13 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+import TravelExploreIcon from '@mui/icons-material/TravelExplore';
 
 export const logo = 'https://i.ytimg.com/vi/IC6m249zvI0/hqdefault.jpg';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'JS Mastery', icon: <CodeIcon />, },
+    { name: 'Kurzgesagt', icon: <TravelExploreIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
